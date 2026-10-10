@@ -23,6 +23,7 @@ Android app for **QuakeAlert** — connecting to a network of ESP32-powered seis
 - Full-screen warning UI with safety instructions
 - Alert sound with insistent alarm mode
 - 10-minute automatic reset
+- <3
 
 ### 📊 Earthquake History
 - Complete history of detected earthquakes
